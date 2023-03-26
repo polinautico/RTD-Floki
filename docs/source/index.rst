@@ -2,6 +2,17 @@
 Floki
 =====
 
+Contents
+--------
+
+.. toctree::
+   
+   sensores
+   motor
+   sistema_eletrico
+   reguladores
+   seguranca
+   
 Ahoy! Bem vindo ao Floki, maraujos! :
 Nesta guia, iremos mostrar todo o projeto de criação da nossa embarcação tripulada: o Floki.
 
