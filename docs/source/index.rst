@@ -6,8 +6,10 @@ Contents
 --------
 
 .. toctree::
+   .. toctree::
+   :hidden:
    
-   index
+   Home <https://docs.polinautico.com>
    sensores
    motor
    sistema_eletrico
