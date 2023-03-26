@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'NautiDocs'
+project = 'Floki'
 copyright = '2023, Poli Náutico'
 author = 'Equipe Poli Náutico'
 
