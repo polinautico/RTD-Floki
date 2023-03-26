@@ -2,14 +2,13 @@
 Floki
 =====
 
-Esse é um dos projetos do <a href="https://docs.polinautico.com">Poli Náutico </a>
+Esse é um dos projetos do `Poli Náutico <https://docs.polinautico.com>`_
 
 --------
 .. toctree::
    .. toctree::
    :hidden:
    
-   index
    sensores
    motor
    sistema_eletrico
