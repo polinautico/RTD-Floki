@@ -7,6 +7,7 @@ Contents
 
 .. toctree::
    
+   index
    sensores
    motor
    sistema_eletrico
