@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    "sphinxcontrib.drawio",
 ]
 
 intersphinx_mapping = {
@@ -33,8 +34,3 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-from N2G import drawio_diagram
-
-diagram = drawio_diagram()
-diagram.from_file("./diagramas/esquematico_painel_solar.drawio")
