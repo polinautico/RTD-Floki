@@ -1,1 +1,25 @@
-<mxfile host="Electron" modified="2023-03-27T21:53:21.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.8.16 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36" etag="kF-mynojDsDH6o2THUsr" version="20.8.16" type="device"><diagram name="Página-1" id="T25ILLvr_M9ZfXIshvTQ">zZRba4MwFIB/jY8FNdW2j63r5WFlgmN7HKkeNVs0EtNp9+sXNVbFFjaQsQiSfCfXL4doyEnKPcdZfGQBUM3Ug1JDD5pp2tZc/itwaYBlKxBxEjTI6IBHvkBBXdEzCSAfdBSMUUGyIfRZmoIvBgxzzopht5DR4aoZjmAEPB/TMX0lgYgbujQXHT8AieJ2ZcNeNZEEt53VSfIYB6zoIbTVkMMZE00tKR2glbvWSzNudyd63RiHVPxkwPs2X7/M0A7vH0tnvTm8Pc3cmZrlE9OzOrCLSVpfocco5mrr4tL64OycBlBNqWtoU8REgJdhv4oWMgEki0VCZcuQ1ZBQ6jDKeD0WhWFo+r7kueDsA3qRwD7Zli0jajvABZR3z2lc7cmsA5aA4BfZRQ1YKd8q4QxLtYvu+oz2TuLe1dmKYZUx0XXmTqqsKK+/cGyOHB9d93las1b1VZylosebcsu4XZdpjJuL/6YcjZRvsABO8LTWlz7czufT0ppb+jR259bf2ZXN7kGqY71XHW2/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-27T22:15:08.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SMUZ_HDXPofxuIQ4XmM7" version="21.1.1" type="github">
+  <diagram name="Página-1" id="T25ILLvr_M9ZfXIshvTQ">
+    <mxGraphModel dx="786" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0xoUokp7ZkbP78kGbibI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEsAV-3FaGLxCABH_O-P-1" target="jEsAV-3FaGLxCABH_O-P-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEsAV-3FaGLxCABH_O-P-1" value="Painel Solar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="90" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0xoUokp7ZkbP78kGbibI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEsAV-3FaGLxCABH_O-P-2" target="jEsAV-3FaGLxCABH_O-P-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEsAV-3FaGLxCABH_O-P-2" value="MPPT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="270" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jEsAV-3FaGLxCABH_O-P-3" value="Bateria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="450" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
