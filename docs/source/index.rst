@@ -10,10 +10,11 @@ Esse é um dos projetos do `Poli Náutico <https://docs.polinautico.com>`_
    :hidden:
    
    sensores
-   motor
+   propulsao
    sistema_eletrico
    reguladores
    seguranca
+   casco
    
 Ahoy! Bem vindo ao Floki, maraujos! :
 Nesta guia, iremos mostrar todo o projeto de criação da nossa embarcação tripulada: o Floki.
