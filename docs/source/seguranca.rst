@@ -47,11 +47,11 @@ As bombas de porão tem a finalidade de remover água de dentro do barco. É nor
 
 Existem dois mecânismos para o acionamento dessa bomba. 
 
-O primeiro é são as chaves automáticas da bomba de porão. Essas chaves são bóias fixas no assoalho da embarcação. Na presença de água, a bóia levanta e aciona a bomba.
+* O primeiro é são as chaves automáticas da bomba de porão. Essas chaves são bóias fixas no assoalho da embarcação. Na presença de água, a bóia levanta e aciona a bomba.
 
 .. image:: imagens/seguranca/boia.webp
 
-O segundo mecanismo, é através de um botão no painél do piloto.
+* O segundo mecanismo, é através de um botão no painél do piloto.
 
 .. image:: imagens/seguranca/botao_bomba.png
 
