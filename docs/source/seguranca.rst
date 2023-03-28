@@ -20,7 +20,7 @@ Chave Geral
 
 De forma análoga ao Deadman's switch, a Chave Geral é mais uma forma de desligar o barco
 
-.. image:: imagens/seguranca/chave_geral
+.. image:: imagens/seguranca/chave_geral.jpg
 
 Botão de emergência
 ------
