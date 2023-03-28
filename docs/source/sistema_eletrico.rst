@@ -25,4 +25,4 @@ O Banco de Baterias do Floki é composto por 4 GP12-65. Ou seja, o barco conta c
 O Controlador de Carga
 ----
 
-Para permitir a máxima eficiência dos painés, regular o recargamento das baterias e realizar diversas medições, a embarcação conta com o Controlador de Carga `Epever Tracer 5415AN <https://desafiosolar.com.br/>`_
+Para permitir a máxima eficiência dos painés, regular o recargamento das baterias e realizar diversas medições, a embarcação conta com o Controlador de Carga `Epever Tracer 5415AN <https://github.com/polinautico/RTD-Floki/raw/main/docs/source/datasheets/Tracer-AN50-100A-Manual-EN-V3.1.pdf>`_
