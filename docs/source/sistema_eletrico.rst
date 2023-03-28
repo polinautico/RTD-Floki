@@ -1,12 +1,12 @@
 Painel Solar e Baterias
 ====
-alguma coisa aqui
+Resumo do sistema
 ----
-algum texto
+Para um barco solar é essencial o sistema de recarregamento das baterias através dos painéis solares. O regarregamento das baterias é feita por intermédio do controlador de carga, conforme veremos a seguir.
 
 .. image:: https://raw.githubusercontent.com/polinautico/RTD-Floki/main/docs/source/diagramas/esquematico_painel_solar.drawio.png
 
-Os Painéis
+Os Painéis Solares
 ----
 
 Os painés do Floki são os `Znshine ZXP6-TLD72 <https://www.znshinesolar.com/>`_
