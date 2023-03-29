@@ -1,3 +1,5 @@
+.. _PainelPiloto:
+
 Painel do Piloto
 =======
 
