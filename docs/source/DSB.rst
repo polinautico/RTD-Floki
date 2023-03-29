@@ -34,5 +34,4 @@ https://desafiosolar.com.br/wp-content/uploads/2021/03/Regra-Desafio-Solar-Brasi
 .. _edital eletrica:
 
 Edital Elétrica 2023
-====
-
+======
