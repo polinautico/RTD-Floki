@@ -34,7 +34,8 @@ O Banco de Baterias do Floki é composto por 4 GP12-65. Ou seja, o barco conta c
 .. figure:: https://raw.githubusercontent.com/polinautico/RTD-Floki/main/docs/source/diagramas/Banco_de_Baterias.png
    :align: center
 
-    Banco de Baterias
+   Banco de Baterias
+
 
 
 O Controlador de Carga
@@ -45,7 +46,7 @@ Para permitir a máxima eficiência dos painés, regular o carregamento das bate
 .. figure:: https://raw.githubusercontent.com/polinautico/RTD-Floki/main/docs/source/imagens/circuito/EpeverTracer5415AN.png
    :align: center
 
-    Epever Tracer 5415AN
+   Epever Tracer 5415AN
 
 
 Circuito Painel-MPPT-Bateria
@@ -54,4 +55,4 @@ Circuito Painel-MPPT-Bateria
 .. figure:: https://raw.githubusercontent.com/polinautico/RTD-Floki/main/docs/source/diagramas/painel_solar_mppt_bateria.png
    :align: center
 
-    Esquemático para o circuito "Painel-MPPT-Bateria"
+   Esquemático para o circuito "Painel-MPPT-Bateria"
