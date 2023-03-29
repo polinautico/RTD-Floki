@@ -4,11 +4,16 @@ Sistemas de Segurança
 Por se tratar de uma embarcação tripulada, o Floki conta com vários recursos de segurança que esperamos que ninguém nunca tenha que usar.
 
 
+- circuito de segurança completo
+
 Deadman's switch
 ------
 
 Uma chave semelhante às utilizadas em esteiras ergônomicas. Um cabo é preso no colete salva vidas do piloto e a outra ponta é presa na chave.
 Caso o piloto puxe o cabo ou saia do barco o circuito abre e todo o sistema é desligado.
+
+- Circuito do deadman's switch
+
 
 .. note:: Para encontrar esse produto é preciso pesquisar por "Chave Cordão Segurança Jetsky Barco Motor Popa Yamaha Botão"
 
@@ -20,6 +25,8 @@ Chave Geral
 
 De forma análoga ao Deadman's switch, a Chave Geral é mais uma forma de desligar o barco
 
+- Circuito da chave geral
+
 .. figure:: imagens/seguranca/chave_geral.jpg
    :align: center
 
@@ -28,7 +35,10 @@ Botão de emergência
 ------
 
 
-De forma análoga à Chave Geral, o Botão de emergência é mais uma forma de desligar o barco
+De forma análoga à Chave Geral, o Botão de emergência é mais uma forma de desligar o barco.
+
+
+- Circuito do botao de emergencia
 
 .. figure:: imagens/seguranca/chave_cogumelo.png
    :align: center
@@ -37,6 +47,8 @@ Buzina
 ------
 
 A buzina utilizada é uma universal para motos.
+
+- Circuito da buzina
 
 .. figure:: imagens/seguranca/buzina.webp
    :align: center
@@ -58,8 +70,12 @@ Existem dois mecânismos para o acionamento dessa bomba.
 
 * O segundo mecanismo, é através de um botão no painél do piloto.
 
+circuito da bomba de porao
+
 .. figure:: imagens/seguranca/botao_bomba.png
    :align: center
+
+
 
 Radio VHF
 ------
