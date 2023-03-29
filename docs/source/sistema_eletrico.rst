@@ -20,9 +20,12 @@ Os painéis foram arranjados em série para evitar perdas na linha, bem como usa
 O Banco de Baterias
 ----
 
-O Banco de Baterias do Floki é composto por 4 GP12-65. Ou seja, o barco conta com 4 baterias de 12V formando um banco de 48V, com capacidade limitada pelo edital do `DSB <https://desafiosolar.com.br/>`_
+:ref:`DSB_Site`
 
-5.2.2.As embarcações devem estar equipadas com um banco de baterias de capacidade nominal máxima permitida de 2075 Wh. Todas as seguintes referências à “bateria” dizem respeito ao banco de bateria. A capacidade nominal é baseada num tempo de descarga de 01 (uma) hora e será verificada inicialmente pela folha de dados do fabricante, que deve ser enviada com antecedência por e-mail para a Comissão Técnica do DSB.
+Pelo edital do DSB temos a seguinte condição:
+_`5.2.2.As embarcações devem estar equipadas com um banco de baterias de capacidade nominal máxima permitida de 2075 Wh. Todas as seguintes referências à “bateria” dizem respeito ao banco de bateria. A capacidade nominal é baseada num tempo de descarga de 01 (uma) hora e será verificada inicialmente pela folha de dados do fabricante, que deve ser enviada com antecedência por e-mail para a Comissão Técnica do DSB.`
+
+O Banco de Baterias do Floki é composto por 4 GP12-65. Ou seja, o barco conta com 4 baterias de 12V formando um banco de 48V, com capacidade limitada pelo edital do `DSB <https://desafiosolar.com.br/>`_
 
 O Controlador de Carga
 ----
