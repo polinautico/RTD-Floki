@@ -43,7 +43,7 @@ As bombas de porão
 
 As bombas de porão tem a finalidade de remover água de dentro do barco. É normal que um pouco de água entre no barco, mas caso isso aconteça em excesso, as bombas de porão são acionadas para remover esse excesso de água.
 
-.. image:: imagens/seguranca/bomba.webp
+.. image:: imagens/seguranca/bomba.png
 
 Existem dois mecânismos para o acionamento dessa bomba. 
 
