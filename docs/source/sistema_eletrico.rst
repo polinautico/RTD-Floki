@@ -28,7 +28,7 @@ Os painéis foram arranjados em série para evitar perdas na linha, bem como usa
 Banco de Baterias
 ----
 
-Pelo `edital do DSB <https://desafiosolar.com.br/regras/>`_ temos a seguinte condição:
+Pelo :ref:`edital DSB` temos a seguinte condição:
 
 ``"5.2.2.As embarcações devem estar equipadas com um banco de baterias de capacidade nominal máxima permitida de 2075 Wh. Todas as seguintes referências à “bateria” dizem respeito ao banco de bateria. A capacidade nominal é baseada num tempo de descarga de 01 (uma) hora e será verificada inicialmente pela folha de dados do fabricante, que deve ser enviada com antecedência por e-mail para a Comissão Técnica do DSB.""``
 
