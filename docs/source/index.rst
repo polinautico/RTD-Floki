@@ -16,6 +16,7 @@ Esse é um dos projetos do `Poli Náutico <https://docs.polinautico.com>`_
    casco
    propulsao
    reguladores
+   DSB
    
 
 Ahoy! Bem vindo ao Floki, maraujos! :
