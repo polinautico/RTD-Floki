@@ -26,7 +26,7 @@ Pelo `edital do DSB <https://desafiosolar.com.br/regras/>`_ temos a seguinte con
 
 O Banco de Baterias do Floki é composto por 4 GP12-65. Ou seja, o barco conta com 4 baterias de 12V formando um banco de 48V, com capacidade limitada pelo edital do `DSB <https://desafiosolar.com.br/>`_
 
-.. image:: https://raw.githubusercontent.com/polinautico/RTD-Floki/blob/main/docs/source/diagramas/Banco_de_Baterias.png 
+.. image:: https://raw.githubusercontent.com/polinautico/RTD-Floki/main/docs/source/diagramas/Banco_de_Baterias.png
 
 O Controlador de Carga
 ----
