@@ -61,3 +61,9 @@ Radio VHF
 O Rádio VHF tem o objetivo de ser o meio de comunicação para casos excepcionais. Ele se encontra abaixo do painel do piloto e conta com uma alimentação independendo da chave geral do barco. 
 
 .. image:: imagens/seguranca/botao_bomba.png
+
+Circuito de Segurança
+------
+
+Também chamado de "sistema auxiliar", esse circuito é responsável por garantir o funcionamento dos itens de do Floki.
+

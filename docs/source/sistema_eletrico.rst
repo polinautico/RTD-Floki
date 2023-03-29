@@ -1,6 +1,6 @@
 .. _Painel Solar e Baterias:
 
-Painel Solar e Baterias
+Módulo Solar e Baterias
 ====
 
 Resumo do sistema

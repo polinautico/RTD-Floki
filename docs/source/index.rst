@@ -15,7 +15,6 @@ Esse é um dos projetos do `Poli Náutico <https://docs.polinautico.com>`_
    seguranca
    casco
    propulsao
-   reguladores
    DSB
    
 
