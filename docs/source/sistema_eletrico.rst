@@ -16,7 +16,6 @@ Painéis Solares
 ----
 
 Os módulos fotovoltáicos do Floki são os `ZNSHINE ZXP6-LD72-330/P <https://github.com/polinautico/RTD-Floki/blob/main/docs/source/datasheets/Datasheet-ZN-325-350-poly.pdf>`_.
-
 - Cada painél tem uma área útil de 1,96m² e conta com 16,82% de eficiência.
 
 Os painéis foram arranjados em série para evitar perdas na linha, bem como usar fios de menor diâmetro.
@@ -29,7 +28,7 @@ Os painéis foram arranjados em série para evitar perdas na linha, bem como usa
 Banco de Baterias
 ----
 
-Pelo :ref:`edital DSB` temos a seguinte condição:
+Pelo `edital do DSB <https://desafiosolar.com.br/regras/>`_ temos a seguinte condição:
 
 ``"5.2.2.As embarcações devem estar equipadas com um banco de baterias de capacidade nominal máxima permitida de 2075 Wh. Todas as seguintes referências à “bateria” dizem respeito ao banco de bateria. A capacidade nominal é baseada num tempo de descarga de 01 (uma) hora e será verificada inicialmente pela folha de dados do fabricante, que deve ser enviada com antecedência por e-mail para a Comissão Técnica do DSB.""``
 
