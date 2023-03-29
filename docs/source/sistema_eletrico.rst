@@ -9,8 +9,10 @@ Para um barco solar é essencial o sistema de recarregamento das baterias atrav�
 Os Painéis Solares
 ----
 
-Os painés do Floki são os `Znshine ZXP6-TLD72 <https://www.znshinesolar.com/>`_
-temos um arranjo com 3 painés policristalinos (com 17,6 % de eficiência) em série.
+Os módulos fotovoltáicos do Floki são os `ZNSHINE ZXP6-LD72-330/P <https://github.com/polinautico/RTD-Floki/blob/main/docs/source/datasheets/Datasheet-ZN-325-350-poly.pdf>`_
+Cada painél tem uma área útil de 1,96m² e conta com 16,82% de eficiência.
+
+Os painéis foram arranjados em série para evitar perdas na linha, bem como usar fios de menor diâmetro.
 
 .. image:: https://raw.githubusercontent.com/polinautico/RTD-Floki/main/docs/source/imagens/painel_solar_config.png
 
