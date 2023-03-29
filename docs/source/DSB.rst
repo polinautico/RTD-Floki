@@ -1,3 +1,6 @@
+.. _DSB:
+.. _Desafio Solar Brasil:
+
 Desafio Solar Brasil
 ====
 
