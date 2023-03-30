@@ -29,12 +29,12 @@ Objetivos
 https://desafiosolar.com.br/regras/
 
 
-https://desafiosolar.com.br/wp-content/uploads/2021/03/Regra-Desafio-Solar-Brasil-2021-rev.e.pdf
-
 .. _edital eletrica:
 
 Edital Elétrica 2023
 ----
+
+Abaixo está um resumo com as regras mais importantes para a elétrica, baseado no `edital do DSB de 2021 <https://desafiosolar.com.br/wp-content/uploads/2021/03/Regra-Desafio-Solar-Brasil-2021-rev.e.pdf>`_
 
 Painéis Solares
 ------
