@@ -17,7 +17,7 @@ O Desafio Solar Brasil é uma realização do NIDES – Núcleo Interdisciplinar
 A expectativa para o projeto é atraia, a cada edição, equipes representantes de diversas instituições educacionais e de centros de pesquisa do mundo inteiro, sendo esta uma oportunidade de compartilhar conhecimento e experiências sobre energia solar em um ambiente mais amigável que competitivo."``
 
 Objetivos
-============
+----
 
 * Promover o desenvolvimento da tecnologia.
 * Formar jovens, estudantes de ciências e tecnologias no uso de fontes alternativas energia.
@@ -33,7 +33,7 @@ https://desafiosolar.com.br/regras/
 .. _edital eletrica:
 
 Edital Elétrica 2023
-============
+----
 
 Abaixo está um resumo com as regras mais importantes para a elétrica, baseado no `edital do DSB de 2021 <https://desafiosolar.com.br/wp-content/uploads/2021/03/Regra-Desafio-Solar-Brasil-2021-rev.e.pdf>`_
 
