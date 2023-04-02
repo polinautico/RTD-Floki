@@ -85,6 +85,8 @@ O Rádio VHF tem o objetivo de ser o meio de comunicação para casos excepciona
 .. figure:: imagens/seguranca/vhf.jpeg
    :align: center
 
+   Radio VHF Uniden 385
+
 Ventiladores
 ------
 
@@ -99,6 +101,8 @@ Circuito de Segurança
 Também chamado de "sistema auxiliar", esse circuito é responsável por garantir o funcionamento dos itens de do Floki.
 
 * A primeira parte do circuito de segurança é a chave geral. Com ela desligada, a bateria para de fornecer tensão para todo o barco, com excessão do Controlador de Carga.
+
+
 
 * A segunda parte do circuito de segurança tem a função de interromper o fornecimento de energia ao motor. Isso é feito com o uso de um conjunto de relês que é desligado com *deadman`s switch* ou *botão do motor* no :ref:`PainelPiloto`
 
