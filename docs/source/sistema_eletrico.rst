@@ -16,7 +16,7 @@ Painéis Solares
 ----
 
 Os módulos fotovoltáicos do Floki são os `ZNSHINE ZXP6-LD72-330/P <https://github.com/polinautico/RTD-Floki/blob/main/docs/source/datasheets/Datasheet-ZN-325-350-poly.pdf>`_.
-- Cada painél tem uma área útil de 1,96m² e conta com 16,82% de eficiência.
+- Cada painél tem uma área útil de 1,96m² com 16,82% de eficiência cada.
 
 .. figure:: https://raw.githubusercontent.com/polinautico/RTD-Floki/main/docs/source/imagens/circuito/especificacao_do_painel.png
    :align: center
