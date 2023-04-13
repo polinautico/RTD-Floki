@@ -19,7 +19,7 @@ Esse é um dos projetos do `Poli Náutico <https://docs.polinautico.com>`_
    Voltar ao início <https://docs.polinautico.com>
    
 
-Ahoy! Bem vindo ao Floki, maraujos! :
+Ahoy! Bem vindo ao Floki, maraujos!
 Nesta guia, iremos mostrar todo o projeto de criação da nossa embarcação tripulada: o Floki.
 
 A ideia
