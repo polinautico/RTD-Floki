@@ -7,7 +7,7 @@ Resumo do sistema
 ----
 Para um barco solar é essencial o sistema de recarregamento das baterias através dos painéis solares. O regarregamento das baterias é feita por intermédio do controlador de carga, conforme veremos a seguir.
 
-.. figure:: https://raw.githubusercontent.com/polinautico/RTD-Floki/main/docs/source/diagramas/esquematico_painel_solar.drawio.png
+.. figure:: https://raw.githubusercontent.com/polinautico/RTD-Floki/main/docs/source/diagramas/esquematico_painel_solar.png
    :align: center
 
    Resumo do circuito
