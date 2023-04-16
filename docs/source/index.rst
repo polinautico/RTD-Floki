@@ -9,7 +9,7 @@ Esse é um dos projetos do `Poli Náutico <https://docs.polinautico.com>`_
 .. toctree::
    :hidden:
    
-   sistema_eletrico
+   modulo_soloar_e_baterias
    painel_piloto
    sensores
    seguranca
