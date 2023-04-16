@@ -1,2 +1,5 @@
-# RTD-Floki
-Nesse projeto vamos documentar o Floki com o read the docs em https://docs.polinautico.com/projects/Floki/
+# Floki
+
+A embarcação Floki é um dos projetos do Poli Náutico.
+
+Para saber mais sobre ele, acesse a [documentação do projeto](https://docs.polinautico.com/projects/Floki/).
