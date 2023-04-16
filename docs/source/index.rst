@@ -11,8 +11,8 @@ Esse é um dos projetos do `Poli Náutico <https://docs.polinautico.com>`_
    
    modulo_soloar_e_baterias
    painel_piloto
+   sistema_de_seguranca
    sensores
-   seguranca
    casco
    propulsao
    DSB

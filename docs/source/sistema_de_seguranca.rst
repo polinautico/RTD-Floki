@@ -10,10 +10,14 @@ Deadman's switch
 ------
 
 Uma chave semelhante às utilizadas em esteiras ergônomicas. Um cabo é preso no colete salva vidas do piloto e a outra ponta é presa na chave.
-Caso o piloto puxe o cabo ou saia do barco o circuito abre e todo o sistema é desligado.
+Caso o piloto puxe o cabo ou saia do barco o circuito fecha e o sistema de alimentação do motor é desligado.
 
 - Circuito do deadman's switch
 
+.. figure:: diagramas/circuito_desliga_motor.png
+   :align: center
+   
+   Sistema de segurança 2
 
 .. note:: Para encontrar esse produto é preciso pesquisar por "Chave Cordão Segurança Jetsky Barco Motor Popa Yamaha Botão"
 
